@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/S220-SDC05-hackthon/static/css/main.d23f1d12.css",
+    "main.js": "/S220-SDC05-hackthon/static/js/main.f3cb6a3d.js",
+    "index.html": "/S220-SDC05-hackthon/index.html",
+    "main.d23f1d12.css.map": "/S220-SDC05-hackthon/static/css/main.d23f1d12.css.map",
+    "main.f3cb6a3d.js.map": "/S220-SDC05-hackthon/static/js/main.f3cb6a3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d23f1d12.css",
+    "static/js/main.f3cb6a3d.js"
+  ]
+}
