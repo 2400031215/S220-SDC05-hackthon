@@ -1,5 +1,5 @@
 import React from 'react';
-import AshokaChakra from '../components/AshokaChakraFinal';
+import AshokaChakra from '../components/AshokaChakra';
 import RoleCard from '../components/RoleCard';
 
 const LandingPage = ({ onSelectRole, themeClass }) => {

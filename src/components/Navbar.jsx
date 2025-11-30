@@ -1,5 +1,5 @@
 import React from 'react';
-import AshokaChakra from './AshokaChakraFinal';
+import AshokaChakra from './AshokaChakra';
 
 const Navbar = ({ isDarkMode, toggleTheme, userRole, onLogout, themeClass }) => {
   return (
